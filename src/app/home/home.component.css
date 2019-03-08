@@ -1,0 +1,18 @@
+.home-wrapper {
+  /* background-color: lightskyblue; */
+  /* background: url('assets/img/background.png') top left repeat; */
+  background-size: auto 100%;
+  /* padding-top: 100px; */
+  padding-top: 20px;
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+.img-200 {
+  height: 200px;
+  width: 200px;
+}
+
+.voffset2 {
+  margin-top: 15px;
+}

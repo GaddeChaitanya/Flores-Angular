@@ -1,0 +1,26 @@
+#feedback {
+  position: fixed;
+  left: 92%;
+  top: 50%;
+  height: 50px;
+  width: 150px;
+  transform: rotate(-90deg);
+  transform-origin: right, top;
+  -ms-transform: rotate(-90deg);
+  -ms-transform-origin: right, top;
+  -webkit-transform: rotate(-90deg);
+  -webkit-transform-origin: right, top;
+}
+
+.remove-tag {
+  display: none;
+}
+
+.include-tag {
+    display: inline;
+  }
+  #feedbackForm{
+      width:200px;
+      position:fixed;
+      left: 85%;
+  }
